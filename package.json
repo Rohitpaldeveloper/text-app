@@ -1,6 +1,6 @@
 {
-  "homepage": "rohitpaldeveloper.github.io/my-app",
-  "name": "my-app",
+  "homepage": "rohitpaldeveloper.github.io/text-app",
+  "name": "text-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
